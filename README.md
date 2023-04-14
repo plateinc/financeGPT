@@ -1,2 +1,2 @@
 # financeGPT
-360 degree of your finance. Connect your accounts and plug your open AI key and enjoy.
+FinanceGPT will read your expenses, income and investment and can answer any questions you have about your financial situation. It will improve over the time.
